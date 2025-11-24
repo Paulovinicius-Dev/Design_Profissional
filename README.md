@@ -23,7 +23,7 @@ O produto final da disciplina é composto por:
 | Recurso | Link |
 |--------|------|
 | 📃 Modelo de Currículo | *(Adicionar aqui o seu link próprio caso alterado)* |
-| 🔗 Perfil no LinkedIn | *([Adicionar o seu link se desejar](https://www.linkedin.com/in/pauloviniciusdev/))* |
+| 🔗 Perfil no LinkedIn | *([ttps://www.linkedin.com/in/pauloviniciusdev/](https://www.linkedin.com/in/pauloviniciusdev/))* |
 
 > **Observação:** Os links acima devem ser personalizados com o tempo, conforme evolução pessoal e profissional.
 
