@@ -22,7 +22,7 @@ O produto final da disciplina é composto por:
 
 | Recurso | Link |
 |--------|------|
-| 📃 Modelo de Currículo | *(Adicionar aqui o seu link próprio caso alterado)* |
+| 📃 Modelo de Currículo | *([https://github.com/Paulovinicius-Dev/DesignProfissional_A1/blob/main/Curr%C3%ADculo%20Lattes.pdf](https://github.com/Paulovinicius-Dev/DesignProfissional_A1/blob/main/Curr%C3%ADculo%20Lattes.pdf))* |
 | 🔗 Perfil no LinkedIn | *([ttps://www.linkedin.com/in/pauloviniciusdev/](https://www.linkedin.com/in/pauloviniciusdev/))* |
 
 > **Observação:** Os links acima devem ser personalizados com o tempo, conforme evolução pessoal e profissional.
