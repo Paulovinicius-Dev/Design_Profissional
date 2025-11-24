@@ -1,49 +1,49 @@
-# 🔴⚫ MengoFit Gym: Aumente Seu Poder!
+# 👔 Design Profissional (UDF - 1º Semestre)
 
-## 🎯 Objetivo do Projeto
+Repositório central contendo links e materiais desenvolvidos durante a disciplina **Design Profissional**, cursada no **1º semestre** do curso de **Análise e Desenvolvimento de Sistemas (ADS)** no **Centro Universitário UDF**.
 
-O projeto **MengoFit Gym** é uma **Landing Page Institucional e Interativa** desenvolvida para simular a presença online de uma academia. Seu principal objetivo é demonstrar a proficiência na construção de uma interface de usuário **completa e responsiva**, integrando funcionalidades lógicas e interativas utilizando tecnologias **Front-end puras** (HTML, CSS e JavaScript).
-
-A identidade visual foi completamente personalizada para seguir o tema e as cores do **Clube de Regatas do Flamengo** (Preto, Vermelho e Dourado), conferindo um design enérgico e marcante.
+Este diretório serve como hub para organização do portfólio acadêmico e profissional.
 
 ---
 
-## ⚙️ Descrição das Funcionalidades
+## 🔗 Projetos e Entregáveis da Disciplina
 
-O projeto cumpre todos os requisitos mínimos de um desenvolvimento Front-end, oferecendo as seguintes funcionalidades interativas:
+A seguir estão os links oficiais para as atividades realizadas:
 
-### 1. Calculadora de IMC (Índice de Massa Corporal)
-* **Cálculo Lógico:** Recebe os dados de **peso (kg)** e **altura (m)** do usuário e calcula o IMC utilizando a fórmula: $IMC = \frac{Peso}{Altura^2}$.
-* **Classificação Dinâmica:** Apresenta o resultado e a classificação de saúde (ex: Peso normal, Sobrepeso, Obesidade) com alertas visuais.
-* **Recomendação Personalizada:** Fornece sugestões de planos da academia (Básico, Plus, Premium) baseadas no objetivo selecionado no formulário.
-
-### 2. Carrossel de Banners Automático
-* **Controle JavaScript:** Apresenta múltiplos banners com **transição suave** e automática a cada 5 segundos.
-* **Navegação Interativa:** Permite que o usuário navegue manualmente entre os slides clicando nos pontos (dots) de controle.
-
-### 3. Navegação e Experiência do Usuário (UX)
-* **Rolagem Suave (*Smooth Scrolling*):** Implementação em JavaScript para que os links do menu (`<nav>`) levem o usuário a suas respectivas seções com uma animação suave e profissional.
-* **Responsividade:** O layout é totalmente adaptável a dispositivos móveis (celulares, tablets e desktops) utilizando **Flexbox** e *Media Queries*.
+| Projeto / Entrega | Link |
+|------------------|-------|
+| 🧠 Atividade sobre Hard e Soft Skills aplicadas ao mercado de TI | https://github.com/Paulovinicius-Dev/Atividade-Design-Profissional---Centro-Universit-rio-UDF |
+| 🌐 Projeto: Página Web sobre Carreira e Certificações em TI | https://github.com/Paulovinicius-Dev/Atividade-Site-Carreira-TI |
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## 📚 Conteúdo Relacionado
 
-Este projeto foi construído utilizando um stack focado em desenvolvimento Front-end e versionamento:
+Se você procura projetos práticos como:
 
-| Tecnologia | Finalidade | Status |
-| :--- | :--- | :--- |
-| **HTML5** | Estrutura semântica e inclusão de elementos multimídia (vídeo, imagens). | ✅ |
-| **CSS3** | Estilização, layout responsivo (com **Flexbox**) e aplicação de efeitos visuais. | ✅ |
-| **JavaScript (ES6+)** | Lógica de cálculo (IMC), manipulação do DOM (Carrossel) e eventos (`onsubmit`, `onclick`). | ✅ |
-| **Git & GitHub** | Controle de versão e hospedagem do código-fonte. | 🔒 |
+- Front-End  
+- Banco de Dados  
+- Algoritmos e Programação  
+- Portfólio profissional  
+
+👉 navegue pelos demais repositórios do perfil ou consulte o índice quando disponível.
 
 ---
 
-## 🚀 Instruções para Execução do Projeto
+## 🏫 Informações Acadêmicas
 
-Para visualizar e testar o projeto em seu ambiente local ou via GitHub Pages, siga os passos abaixo:
+- **Instituição:** Centro Universitário UDF  
+- **Curso:** Análise e Desenvolvimento de Sistemas  
+- **Disciplina:** Design Profissional  
+- **Semestre:** 1º  
 
-### 1. Clique no Link abaixo 
+---
 
-url:https://paulovinicius-dev.github.io/Projeto-Final-Mengo-Fit/
+## ✒️ Autor
+
+👤 **Paulo Vinicius da Silva Sousa**  
+📌 Estudante de ADS e desenvolvedor em formação.
+
+---
+
+🧩 *Deseja adicionar badges (LinkedIn, GitHub Stats, linguagem usada, etc.) ou uma versão com layout moderno visual?*
